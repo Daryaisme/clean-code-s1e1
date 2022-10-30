@@ -16,11 +16,12 @@
 .eisenhower-matrix .more-inf {
   font-family: fantasy, cursive;
 }
-
 @media (max-width:768px) {
+
   .eisenhower-matrix { 
-  text-align: center;
+    text-align: center;
   }
+
 }
 .main-page-element {
   display: block;
@@ -57,6 +58,7 @@ input,button{
 .btn:hover {
   color: #3a3a3a;
 }
+
 /* Heading */
 .caption,
 #top-section-for-adding-element-to-list > label {
@@ -105,7 +107,6 @@ input,button{
 .todo > * {
   vertical-align: middle;
 }
-
 .checkbox {
   margin: 0 10px;
 }
@@ -137,12 +138,10 @@ input,button{
 .input-task {
   display:none
 }
-
 .edit-mode .input-task {
   display:inline-block;
   width:224px
 }
-
 .edit-mode > label {
   display:none;
 }
