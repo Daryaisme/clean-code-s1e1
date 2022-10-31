@@ -62,7 +62,7 @@ button {
 
 /* Heading */
 .caption,
-#top-section-for-adding-element-to-list > label {
+#new-element > label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -88,7 +88,7 @@ button {
 }
 
 /* New Task */
-#top-section-for-adding-element-to-list > label {
+#new-element > label {
   display: block;
   margin: 0 0 20px;
 }
